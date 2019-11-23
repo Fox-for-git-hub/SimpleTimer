@@ -15,6 +15,7 @@
 		E7BE925B238911B200351119 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7BE9259238911B200351119 /* LaunchScreen.storyboard */; };
 		E7BE9266238911B200351119 /* MyTimerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE9265238911B200351119 /* MyTimerTests.swift */; };
 		E7BE9271238911B200351119 /* MyTimerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE9270238911B200351119 /* MyTimerUITests.swift */; };
+		E7BE927F23891C8900351119 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE927E23891C8900351119 /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E7BE926C238911B200351119 /* MyTimerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyTimerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7BE9270238911B200351119 /* MyTimerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTimerUITests.swift; sourceTree = "<group>"; };
 		E7BE9272238911B200351119 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7BE927E23891C8900351119 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				E7BE9257238911B200351119 /* Assets.xcassets */,
 				E7BE9259238911B200351119 /* LaunchScreen.storyboard */,
 				E7BE925C238911B200351119 /* Info.plist */,
+				E7BE927E23891C8900351119 /* SettingViewController.swift */,
 			);
 			path = MyTimer;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				E7BE9253238911B000351119 /* ViewController.swift in Sources */,
 				E7BE924F238911B000351119 /* AppDelegate.swift in Sources */,
 				E7BE9251238911B000351119 /* SceneDelegate.swift in Sources */,
+				E7BE927F23891C8900351119 /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

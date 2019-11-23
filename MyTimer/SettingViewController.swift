@@ -8,7 +8,9 @@
 
 import UIKit
 
-class SettingViewController: UIViewController {
+class SettingViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
+    
+    //UIPickerViewに表示するデータをArrayで作成
 
     override func viewDidLoad() {
         super.viewDidLoad()

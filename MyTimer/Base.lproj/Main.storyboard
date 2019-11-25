@@ -42,11 +42,15 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
                         <constraints>
                             <constraint firstItem="cPr-ES-Owi" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="1R2-X1-14X"/>
+                            <constraint firstItem="PQx-9d-buP" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="100" id="6Pm-Go-LGC"/>
+                            <constraint firstItem="PQx-9d-buP" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-80" id="92N-6k-XCn"/>
                             <constraint firstItem="PQx-9d-buP" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-80" id="C6B-KI-lOz"/>
                             <constraint firstItem="LRI-Er-9Bh" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="CQw-cA-m99"/>
                             <constraint firstItem="VQr-9h-wDX" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="-80" id="Dzr-1p-UIs"/>
                             <constraint firstAttribute="bottom" secondItem="cPr-ES-Owi" secondAttribute="bottom" id="Gec-gf-4gZ"/>
                             <constraint firstItem="LRI-Er-9Bh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="JEp-xl-Z6K"/>
+                            <constraint firstItem="VQr-9h-wDX" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="100" id="M1e-J8-U4C"/>
+                            <constraint firstItem="VQr-9h-wDX" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" constant="80" id="NqH-0a-wlN"/>
                             <constraint firstItem="cPr-ES-Owi" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="PBh-od-O4o"/>
                             <constraint firstItem="LRI-Er-9Bh" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Pg5-44-vLf"/>
                             <constraint firstItem="VQr-9h-wDX" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" constant="100" id="R7m-YV-MgD"/>
